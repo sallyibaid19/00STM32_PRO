@@ -1,9 +1,11 @@
 # 00STM32_PRO
-	                     ##### Enable_Clock  #####
-  ==============================================================================
-  
+
 # IMT_Diploma_Project || AC_PROJECT_V1
-[+] HW : LM35,ADC,LCD,TFT,DC_MOTORS,LEDS,UART,SPI,STM32F401
+
+	                     ##### HardWare  #####
+     -LM35, DC_MOTORS, LEDS, LCD, TFT, STM32F401 
+     -ADC, UART, SPI
+  ==============================================================================
 ![الت22قاط](https://user-images.githubusercontent.com/56202060/211933189-560f846f-2e43-4828-a220-83d6c65f2248.PNG)
 # AC_PROJECT_V2
 [+] HW : DHT22 Sensor,LCD,TFT,DC_MOTORS,LEDS,UART,SPI,STM32F401
