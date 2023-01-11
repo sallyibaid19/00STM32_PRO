@@ -1,12 +1,5 @@
 # 00STM32_PRO
 
-# IMT_Diploma_Project || AC_PROJECT_V1
-
-	                     ##### HardWare  #####
-     -LM35, DC_MOTORS, LEDS, LCD, TFT, STM32F401 
-     -ADC, UART, SPI
-     =======================================================================
-  ![الت22قاط](https://user-images.githubusercontent.com/56202060/211933189-560f846f-2e43-4828-a220-83d6c65f2248.PNG)
 
 # IMT_Diploma_Project || AC_PROJECT_V2
 
@@ -19,4 +12,13 @@
      =======================================================================
 # IMT_Diploma_Project || AC_PROJECT_V2 (vedio)  
   https://user-images.githubusercontent.com/56202060/211939378-4c2ab09e-3adc-41e6-b9ad-14533f4c3639.mp4
+  
+# IMT_Diploma_Project || AC_PROJECT_V1
+
+	                     ##### HardWare  #####
+     -LM35, DC_MOTORS, LEDS, LCD, TFT, STM32F401 
+     -ADC, UART, SPI
+     =======================================================================
+  ![الت22قاط](https://user-images.githubusercontent.com/56202060/211933189-560f846f-2e43-4828-a220-83d6c65f2248.PNG)
+
 
